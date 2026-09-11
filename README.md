@@ -1,8 +1,16 @@
-# SRD CHAR
+<img width="719" height="733" alt="splash-logo" src="https://github.com/user-attachments/assets/be3ba460-e463-46a5-9fe1-3fb39b9de7fc" />
 
 A 3.5 SRD character sheet desktop app. Built as a fan project, free to use.
 
 Not affiliated with or endorsed by Wizards of the Coast. Built around the freely-licensed SRD (System Reference Document) content only.
+
+<img width="899" height="392" alt="Screenshot 2026-09-11 125107" src="https://github.com/user-attachments/assets/8d515709-a02f-494e-9ffb-e7343672a011" />
+<img width="896" height="412" alt="Screenshot 2026-09-11 125034" src="https://github.com/user-attachments/assets/c6c276c1-fb06-4b26-b405-b9bae91f10da" />
+<img width="546" height="467" alt="Screenshot 2026-09-11 124947" src="https://github.com/user-attachments/assets/c01b5346-75ac-4b00-bd1e-9ae0d8964f5b" />
+<img width="172" height="341" alt="Screenshot 2026-09-11 125825" src="https://github.com/user-attachments/assets/1aece154-87e5-446e-8f7b-55383730f427" />
+<img width="173" height="346" alt="Screenshot 2026-09-11 125750" src="https://github.com/user-attachments/assets/1a07f5ab-9876-4943-82af-34bd7fcd844a" />
+
+*Images from v1.3.1
 
 ## Download
 
